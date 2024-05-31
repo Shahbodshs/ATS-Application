@@ -6,6 +6,6 @@
 3. __transformerstechnique__:
    The implementation of BERT model.
 4. __summary.py__:
-   The UI for application.(used py1t5)
+   The UI for application.(used pyqt5)
 5. __textsummarization.py__:
    The code that i gave the main source in the readme file of the main branch, this code was used to fine-tune the transformer model.
