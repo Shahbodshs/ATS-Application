@@ -9,3 +9,4 @@ And also I downloaded the Word embeddings of the __GloVe__ model from Stanford U
 
 ## How to Use
 For using the application, all you have to do is to go to the ats-application branch and download the folder and the codes. Also, download the word embeddings and the fine-tuned version of BERT with the links above. Then, launch the code __functionality.py__ which runs an application that allows you to choose between the two models and summarize the text.
+I will also commit all the updates here if there was any.  
